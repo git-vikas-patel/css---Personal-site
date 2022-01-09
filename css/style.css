@@ -1,0 +1,128 @@
+body {
+  color: #40524E;
+  font-family: "Merriweather", serif;
+  margin: 0;
+  text-align: center;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.cloud {
+  position: absolute;
+}
+.cloud-top {
+  right: 300px;
+  top: 50px;
+}
+.cloud-bottom {
+  left: 300px;
+  bottom: 300px;
+}
+hr {
+  width: 6%;
+  border: none;
+  border-top: 8px dotted #EAF6F6;
+}
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 5.625em;
+  margin: 30px auto 0 auto;
+  color: #66bfbf;
+}
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+}
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  color: #11999e;
+}
+.profile-discription {
+  width: 40%;
+  margin: 0 auto;
+  line-height: 2;
+}
+.top-container {
+  background-color: #e4f5f9;
+  padding-top: 100px;
+  position: relative;
+}
+.skill-row {
+  width: 50%;
+  margin: 120px auto;
+  line-height: 2;
+  text-align: left;
+}
+.skill-image,
+.chillies-image {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+.chillies-image {
+  float: right;
+  padding-left: 30px;
+}
+span {
+  text-decoration: underline;
+}
+.profile {
+  padding: 4rem 0;
+}
+.profile-image {
+  width: 12rem;
+}
+.skills{
+  padding-top: 50px;
+}
+.contact-me h2{
+  padding: 40px 0;
+}
+.contact-me p{
+  width: 40%;
+  margin: 50px auto;
+  line-height: 2;
+
+}
+
+.bottom-container{
+  margin-top: 5rem;
+  background-color: #66BFBF;
+  padding: 3rem 0 1rem;
+}
+.bottom-container a{
+  color: #11999E;
+  padding:  0 3rem;
+  text-decoration: none;
+}
+.bottom-container p{
+  padding-top: 1rem 0;
+  color: #EAF6F6;
+}
