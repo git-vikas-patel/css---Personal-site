@@ -4,6 +4,9 @@ body {
   margin: 0;
   text-align: center;
 }
+.mountain{
+  width:400px;
+  height:400px;
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
